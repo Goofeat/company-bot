@@ -1,0 +1,66 @@
+[
+  {
+    "company_name": "Компания А",
+    "month": 1,
+    "revenue": 9428397,
+    "expenses": 3184896,
+    "profit": 7094062,
+    "tax": 3505792
+  },
+  {
+    "company_name": "Компания А",
+    "month": 2,
+    "revenue": 911987,
+    "expenses": 8591586,
+    "profit": 6793483,
+    "tax": 9964707
+  },
+  {
+    "company_name": "Компания А",
+    "month": 3,
+    "revenue": 8040930,
+    "expenses": 8246751,
+    "profit": 1893113,
+    "tax": 4431075
+  },
+  {
+    "company_name": "Компания А",
+    "month": 4,
+    "revenue": 5661674,
+    "expenses": 4838523,
+    "profit": 7361722,
+    "tax": 5577
+  },
+  {
+    "company_name": "Компания Б",
+    "month": 8,
+    "revenue": 6015446,
+    "expenses": 2775089,
+    "profit": 483555,
+    "tax": 8893958
+  },
+  {
+    "company_name": "Компания Б",
+    "month": 9,
+    "revenue": 7608553,
+    "expenses": 2499653,
+    "profit": 7722607,
+    "tax": 6516586
+  },
+  {
+    "company_name": "Компания Б",
+    "month": 10,
+    "revenue": 4268767,
+    "expenses": 9209741,
+    "profit": 4499060,
+    "tax": 4614299
+  },
+  {
+    "company_name": "Компания Б",
+    "month": 11,
+    "revenue": 5965043,
+    "expenses": 8447122,
+    "profit": 8621866,
+    "tax": 5644708
+  }
+]
