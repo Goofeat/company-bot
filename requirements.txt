@@ -5,7 +5,7 @@ pandas==2.2.2
 python-dotenv==1.0.1
 pytz==2024.1
 cachetools==5.4.0
-requests==2.32.3
+requests==2.32.4
 aiogram_i18n==1.4
 aiosqlite==0.20.0
 matplotlib==3.9.1.post1
